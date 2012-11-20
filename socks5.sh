@@ -1,11 +1,11 @@
 #!/bin/bash
 
-SSH_HOST="dev.ayaz.pk"
+SSH_HOST="SERVER"
 
-SSH_USER="ayaz"
+SSH_USER="USER"
 
 ## Port on remove host where SSH is listening. 
-SSH_PORT="6922"
+SSH_PORT="22"
 
 ## Local port on which the tunnel will be opened.
 LOCAL_PORT="8088"
